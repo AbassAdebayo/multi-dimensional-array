@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\ConsolePrograms\Multidimesionalrray\Multidimesionalrray\bin\Debug\net7.0\Multidimesionalrray.exe
+C:\Users\Hp\Desktop\ConsolePrograms\Multidimesionalrray\Multidimesionalrray\bin\Debug\net7.0\Multidimesionalrray.deps.json
+C:\Users\Hp\Desktop\ConsolePrograms\Multidimesionalrray\Multidimesionalrray\bin\Debug\net7.0\Multidimesionalrray.runtimeconfig.json
+C:\Users\Hp\Desktop\ConsolePrograms\Multidimesionalrray\Multidimesionalrray\bin\Debug\net7.0\Multidimesionalrray.dll
+C:\Users\Hp\Desktop\ConsolePrograms\Multidimesionalrray\Multidimesionalrray\bin\Debug\net7.0\Multidimesionalrray.pdb
+C:\Users\Hp\Desktop\ConsolePrograms\Multidimesionalrray\Multidimesionalrray\obj\Debug\net7.0\Multidimesionalrray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\ConsolePrograms\Multidimesionalrray\Multidimesionalrray\obj\Debug\net7.0\Multidimesionalrray.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\ConsolePrograms\Multidimesionalrray\Multidimesionalrray\obj\Debug\net7.0\Multidimesionalrray.AssemblyInfo.cs
+C:\Users\Hp\Desktop\ConsolePrograms\Multidimesionalrray\Multidimesionalrray\obj\Debug\net7.0\Multidimesionalrray.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\ConsolePrograms\Multidimesionalrray\Multidimesionalrray\obj\Debug\net7.0\Multidimesionalrray.dll
+C:\Users\Hp\Desktop\ConsolePrograms\Multidimesionalrray\Multidimesionalrray\obj\Debug\net7.0\refint\Multidimesionalrray.dll
+C:\Users\Hp\Desktop\ConsolePrograms\Multidimesionalrray\Multidimesionalrray\obj\Debug\net7.0\Multidimesionalrray.pdb
+C:\Users\Hp\Desktop\ConsolePrograms\Multidimesionalrray\Multidimesionalrray\obj\Debug\net7.0\Multidimesionalrray.genruntimeconfig.cache
+C:\Users\Hp\Desktop\ConsolePrograms\Multidimesionalrray\Multidimesionalrray\obj\Debug\net7.0\ref\Multidimesionalrray.dll
